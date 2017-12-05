@@ -1,5 +1,9 @@
 # ratFink-Small
-Before we used ratFink-Source (the Purple Board), UNO Robotics used the Sparkfun Quadstepper Motor Driver Board (the Red Board). The Red Board was reliable and served the club for at least two years before Sparkfun retired the board's production. One reason the Red Board was great is that it was only about 59mm wide and 69mm long. By contrast, the Purple Board is about 80mm wide and 91mm long. The ratFink-Small project is intended to close the gap.
+Making Andrew Stark's Motor Controller Board smaller for the University of New Orleans Robotics Club.
+
+Before we used ratFink-Source (the Purple Board), UNO Robotics used the Sparkfun Quadstepper Motor Driver Board (the Red Board). The Red Board was reliable and served the club for at least two years before Sparkfun retired the board's production. One reason the Red Board was great is that it was only about 59mm wide and 69mm long. By contrast, the Purple Board is about 80mm wide and 91mm long.
+
+We want to make ratFink-Small because a smaller PCB takes up less real estate on the robot, uses less materials, and reduces production costs.
 
 The Motor Controller Board is used to control 4 stepper motors attached to mechanum wheels. To do this, we attach 4 of Pololu's DRV8825 Stepper Motor Driver Carriers to a printed and populated board.
 
