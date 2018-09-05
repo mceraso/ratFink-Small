@@ -15,6 +15,17 @@ This board was developed within Eagle. We lost the .sch file on an old computer.
 # Red Board Dimensions: 
 <img src='https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-02.jpg' title='Back' width="alt='Video Walkthough'"/> 
 
+# ratFink-Small Dimensions:
+<img src='https://i.imgur.com/U9zA1rs.png' title='Front' width="alt='Video Walkthough'"/> 
+
+# ratFink-Small Bottom:
+<img src='https://i.imgur.com/G4p2vTQ.png' title='Front' width="alt='Video Walkthough'"/> 
+
+# ratFink-Small OshPark Documents:
+<img src='https://i.imgur.com/YPAlu6O.png' title='Front' width="alt='Video Walkthough'"/> 
+
+<img src='https://i.imgur.com/5X294Pf.png' title='Front' width="alt='Video Walkthough'"/> 
+
 # Helpful Links:
 Pololu Stepper Motor Driver Carrier: https://www.pololu.com/product/2133
 
