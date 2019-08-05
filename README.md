@@ -35,6 +35,6 @@ Eagle Tutorial from SparkFun: https://learn.sparkfun.com/tutorials/how-to-instal
 
 Quadstepper from SparkFun: https://www.sparkfun.com/products/retired/10507
 
-UNO Robotics: http://www.uno.edu/student-involvement-leadership/orgs/robotics-club.aspx
+UNO Robotics: https://unorobotics.herokuapp.com/
 
 GoFundMe: https://www.gofundme.com/unorobotics
